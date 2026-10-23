@@ -1,86 +1,103 @@
 <div align="center">
 
-# Hey, I'm Mike. 👋
+# Hey, I'm Mike! 👋
 
-**Developer • gamer • professional side-quest collector**
+**Developer • Creative builder • Curious about pretty much everything**
 
-*I make web apps, AI companions, and little worlds — usually because a random idea sounded too fun to ignore.*
+*I like making things — useful apps, random experiments, games, tools, and whatever idea gets stuck in my head.*
 
-<sub>Vietnam 🇻🇳 &nbsp; • &nbsp; Build things. Break things. Learn things. Repeat.</sub>
+<sub>Based in Vietnam 🇻🇳 &nbsp;·&nbsp; Always learning, always building.</sub>
 
-</div>
+<br /><br />
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="440" alt="Animated pixel-art developer at work" />
-</div>
+<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="440" alt="Pixel-art developer at work" />
 
-<br />
-
-<div align="center">
+<br /><br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-HoenMike-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoenMike)
-[![Word Clock](https://img.shields.io/badge/Play-With%20Time-386B9B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yet-another-vietnamese-word-clock.pages.dev/)
-[![Asumi](https://img.shields.io/badge/Meet-Asumi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/HoenMike/DiscordMikeBot)
+[![Word Clock](https://img.shields.io/badge/Try-Word%20Clock-386B9B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yet-another-vietnamese-word-clock.pages.dev/)
+[![Asumi](https://img.shields.io/badge/Explore-Asumi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/HoenMike/DiscordMikeBot)
 
 </div>
 
 ---
 
-## 🕹️ Character Select
+## 👋 A little about me
 
-Hey there! I build software that I want to exist. Sometimes that's a useful tool; sometimes it's an AI companion; sometimes it's just a tiny game that got out of hand.
+I'm a developer who enjoys exploring **different kinds of projects**, from web applications and business tools to AI, games, automation, and embedded systems.
 
-I like **TypeScript, .NET, Cloudflare, game dev, and AI automation**, but what I really enjoy is turning an idea into something people can actually use.
+I don't really stick to one category. Sometimes I build something to solve a problem; sometimes it's just because I want to see if an idea is possible. I enjoy learning new tools, figuring things out, and turning rough ideas into something real.
 
-> *"This should be a small weekend project."* — famous last words.
+**Outside of tech?** Games, anime, and probably thinking about the next project I want to try.
 
-## 🎮 Quest Board
+> *I may have more project ideas than free time — but that's part of the fun.*
 
-Things currently on my workbench:
+## 💼 Experience & working style
 
-| Project | What's the quest? | Status |
-| :--- | :--- | :--- |
-| **🌱 Living Garden** | A cozy farming browser game where you grow, explore and build at your own pace. | 🌿 Growing |
-| **🤖 [Asumi](https://github.com/HoenMike/DiscordMikeBot)** | A Discord AI companion with conversation, community features and little automations. | ⚙️ Updating |
-| **☁️ Miraei** | My Telegram-based second brain, for ideas, memories and the occasional brain dump. | 🛠️ Building |
-| **🕒 [Word Clock](https://yet-another-vietnamese-word-clock.pages.dev/)** | A Vietnamese word clock for browsers and ambient displays. | ✅ Live |
+- **Manufacturing environment:** Experience working in a factory / manufacturing setting, with an understanding of real operational needs, business workflows, and practical software solutions.
+- **English & international communication:** Strong English communication skills. Comfortable communicating in English and familiar with US and European working environments and communication styles.
+- **People + problem-solving:** I enjoy collaborating, discussing requirements, understanding what people need, and figuring out how technology can help.
 
-<details>
-<summary><b>🗃️ Open the archives — more side quests</b></summary>
+I like the balance between **building software that works** and **making it easy for people to actually use**.
 
-<br />
+## 🛠️ Things I've worked with
 
-- **Zinit** — my Flutter graduation thesis: a productivity app for tasks, habits and focus.
-- **AlphaCMS 2** — a private web app exploring clearer everyday workflows.
-- **[Chrome Dino](https://github.com/HoenMike/ChromeDino)** — one of my early Java/OOP projects. Never forget your starter Pokémon... I mean, dinosaur.
-- **ChillTown** — an experiment in real-time multiplayer.
-- **Project SC** — a private independent software project. Details stay private for now.
-
-</details>
-
-## 🎒 Inventory / Tech Stack
+| Area | Technologies & tools |
+| :--- | :--- |
+| **Web & application development** | TypeScript, JavaScript, React, .NET, Java, Python |
+| **Enterprise & data** | SharePoint / SPFx, SQL, Firebase |
+| **Cloud & deployment** | Cloudflare, Render, GitHub |
+| **Game development** | Unity, Phaser |
+| **Other interests & experience** | Embedded systems, AI tools, bots & automation |
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-182A41?style=flat-square&logo=typescript&logoColor=84B9FF)
 ![React](https://img.shields.io/badge/React-182A41?style=flat-square&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-182A41?style=flat-square&logo=dotnet&logoColor=B4A0FF)
+![Java](https://img.shields.io/badge/Java-182A41?style=flat-square&logo=openjdk&logoColor=F5B778)
 ![Python](https://img.shields.io/badge/Python-182A41?style=flat-square&logo=python&logoColor=FFD580)
+![SQL](https://img.shields.io/badge/SQL-182A41?style=flat-square&logoColor=FFFFFF)
+![SharePoint](https://img.shields.io/badge/SharePoint-182A41?style=flat-square&logo=microsoftsharepoint&logoColor=75D6CE)
+![Unity](https://img.shields.io/badge/Unity-182A41?style=flat-square&logo=unity&logoColor=FFFFFF)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-182A41?style=flat-square&logo=cloudflare&logoColor=FBB46C)
+![Render](https://img.shields.io/badge/Render-182A41?style=flat-square&logo=render&logoColor=88E5CD)
 ![Phaser](https://img.shields.io/badge/Phaser-182A41?style=flat-square&logo=phaser&logoColor=90E3C6)
-![Firebase](https://img.shields.io/badge/Firebase-182A41?style=flat-square&logo=firebase&logoColor=FFCA6D)
-![GitHub](https://img.shields.io/badge/GitHub-182A41?style=flat-square&logo=github&logoColor=FFFFFF)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-182A41?style=flat-square&logoColor=FFFFFF)
 
 </div>
 
-**Favorite skill tree:** Full-stack web · Game dev · AI agents & automation · Useful small tools.
+<sub>Not a ranking or a claim to know everything — just a mix of tools I've used and areas I've explored.</sub>
 
-## 📈 Save Data / GitHub Activity
+## 🚀 Some things I've built
+
+A few examples of the different directions my curiosity has taken me:
+
+| Project | What it is |
+| :--- | :--- |
+| **🌱 Living Garden** | A cozy browser farming game about growing, exploring, and building your own little world. |
+| **🤖 [Asumi](https://github.com/HoenMike/DiscordMikeBot)** | A Discord bot / AI companion with conversations, community features, and automations. |
+| **☁️ Miraei** | A personal Telegram assistant for remembering ideas, organizing thoughts, and getting things done. |
+| **🕒 [Word Clock](https://yet-another-vietnamese-word-clock.pages.dev/)** | A Vietnamese word clock for web and ambient displays, adapted from an [open-source project](https://github.com/tridzfr/vietnamese-word-clock). |
+
+<details>
+<summary><b>📂 More projects & experiments</b></summary>
+
+<br />
+
+- **Zinit** — my graduation thesis: a Flutter productivity app for tasks, habits, and focus.
+- **AlphaCMS 2** — a private scheduling and payroll management web application.
+- **[Chrome Dino](https://github.com/HoenMike/ChromeDino)** — an early Java/OOP game project.
+- **ChillTown** — a real-time multiplayer experiment.
+- **Project SC** — an independent private software project; details aren't public.
+
+Some projects are public, some are private, and some are just experiments. They're all part of the journey.
+
+</details>
+
+## 📊 GitHub activity
 
 <div align="center">
-
-<!-- These cards are generated by GitHub Actions and committed to this repository.
-     They show this account's public GitHub stats, not sample data or third-party profiles. -->
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="HoenMike contribution activity graph" width="96%" />
 
@@ -90,53 +107,29 @@ Things currently on my workbench:
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="HoenMike GitHub stats" width="100%" />
 </td>
 <td width="44%" align="center">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages in HoenMike's public GitHub activity" width="100%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages across HoenMike's public GitHub contributions" width="100%" />
 </td>
 </tr>
 </table>
 
-<sub>Live-ish save data: refreshed daily by a workflow. Public activity only; private projects aren't disclosed.</sub>
+<sub>Generated daily from public GitHub data. Private and non-GitHub work won't all show up here.</sub>
+
+<img src="./assets/contribution-snake.gif" alt="Animated contribution snake crossing HoenMike's GitHub graph" width="100%" />
+
+<sub>A little animation, because why not? 🐍</sub>
 
 </div>
-
-## 🐍 Bonus Stage: The Contribution Snake
-
-<div align="center">
-
-<img src="./assets/contribution-snake.gif" alt="A tiny blue snake eating Mike's GitHub contribution graph" width="100%" />
-
-<sub>It eats commits. I should probably feed it more.</sub>
-
-</div>
-
-## 📜 Patch Notes
-
-```text
-[BOOT]   curiosity.exe                              OK
-[CHECK]  side quests                                TOO MANY
-[STATE]  fixing bugs I definitely didn't create    IN PROGRESS
-[GOAL]   ship something fun                         ALWAYS
-```
-
-<details>
-<summary><b>☕ A few more things about me</b></summary>
-
-<br />
-
-I like games, anime, and interfaces that feel a little more alive than a wall of forms. My favorite projects are the ones where engineering and creativity get to hang out.
-
-Not every repository is public. I only share project details and links that are okay to share.
-
-</details>
 
 ---
 
 <div align="center">
 
-### Thanks for dropping by my corner of GitHub. ✨
+### Thanks for stopping by!
 
-*Hope your build passes, your coffee stays warm, and your next side quest is worth it.*
+*Whether you're here to talk tech, check out my work, or just say hi — welcome.*
 
-<sub>Pixel-art GIF: [pixelartgifs collection](https://github.com/hackwithdev/pixelartgifs). Stats: [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). Contribution animation: [snk](https://github.com/Platane/snk).</sub>
+**See you around! ✌️**
+
+<sub>Stats by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) · Snake by [snk](https://github.com/Platane/snk) · Pixel GIF from [pixelartgifs](https://github.com/hackwithdev/pixelartgifs)</sub>
 
 </div>
