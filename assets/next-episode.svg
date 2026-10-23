@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 130" role="img" aria-label="Next episode: probably another side project">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0C182D"/><stop offset="1" stop-color="#202445"/></linearGradient></defs>
+<rect width="1400" height="130" rx="17" fill="url(#bg)"/><rect x="20" y="18" width="1360" height="94" rx="10" fill="none" stroke="#47618B" stroke-opacity=".6"/>
+<path d="M39 40h112M39 40v25M1361 90v22h-112" stroke="#84BCE8" stroke-width="3" fill="none"/>
+<text x="78" y="70" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="800" letter-spacing="2" fill="#F4F6FF">NEXT EPISODE...</text>
+<text x="79" y="95" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#ADC4DF">probably another side project I didn't plan to start.</text>
+<g transform="translate(1198 45)"><rect x="0" y="10" width="41" height="41" rx="5" fill="#254A6B"/><path d="M7 31h29m-15-14v28" stroke="#91D5FF" stroke-width="3"/><path d="M59 7l3 11 11 3-11 3-3 11-3-11-11-3 11-3z" fill="#F3BD75"/></g>
+</svg>
