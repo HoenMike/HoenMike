@@ -1,0 +1,55 @@
+name: Refresh README visuals
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/readme-visuals.yml"
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-visuals
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate stats and animated contribution graph
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: HoenMike
+          BRANCH_NAME: main
+          THEME: github_dark
+          NAME: Mike
+          AUTO_PUSH: "false"
+
+      - name: Generate contribution snake GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HoenMike
+          outputs: |
+            assets/contribution-snake.gif?color_snake=#77b5ff&color_dots=#121b2d,#224a6d,#386d9f,#579ad4,#8bc8fc&color_background=#0d1117
+
+      - name: Save generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f assets/contribution-snake.gif profile-summary-card-output/
+          if git diff --cached --quiet; then
+            echo "No changes to generated visuals."
+          else
+            git commit -m "chore: refresh README activity visuals"
+            git push origin HEAD:main
+          fi
