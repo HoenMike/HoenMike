@@ -6,6 +6,10 @@
 
 # Hey, I'm Mike! 👋
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=2800&amp;pause=1300&amp;color=84B8E8&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=36&amp;lines=Building+web+apps%2C+bots+and+games;Usually+debugging+something...;One+more+commit%2C+then+one+more+episode" alt="Animated introduction: building apps, bots and games" />
+</a>
+
 **Developer · Web apps · AI & automation · Games**
 
 *I like building useful things, experimenting with weird ideas, and making software feel a little more human.*
@@ -17,6 +21,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-HoenMike-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/HoenMike)
 [![Word Clock](https://img.shields.io/badge/Word_Clock-Try_it-386B9B?style=flat-square&logo=googlechrome&logoColor=white)](https://yet-another-vietnamese-word-clock.pages.dev/)
 [![Asumi](https://img.shields.io/badge/Asumi-Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white)](https://github.com/HoenMike/DiscordMikeBot)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=HoenMike&amp;label=Profile+views&amp;color=386B9B&amp;style=flat-square" alt="Profile view counter" />
 
 </div>
 
@@ -91,6 +99,21 @@ Outside of code, I'm into **anime, games, and a good story**. I like cozy games,
 
 <sub>Generated from public GitHub activity. Private and non-GitHub work may not appear.</sub>
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=HoenMike&amp;theme=github-dark-blue&amp;hide_border=true&amp;card_width=495&amp;date_format=j%20M%5B%20Y%5D" alt="HoenMike's current and longest contribution streak" width="75%" />
+</a>
+
+<details>
+<summary><b>See more GitHub stats</b></summary>
+
+<br />
+
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="GitHub activity by time of day" width="65%" />
+
+</details>
+
+<br />
+
 <img src="./assets/contribution-snake.gif" alt="Animated contribution snake" width="100%" />
 
 </div>
@@ -101,6 +124,6 @@ Outside of code, I'm into **anime, games, and a good story**. I like cozy games,
 
 *Thanks for stopping by. See you around!*
 
-<sub>Banner image: [source on X](https://x.com/hino_YT) · Stats by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) · Snake by [snk](https://github.com/Platane/snk)</sub>
+<sub>Banner image: [source on X](https://x.com/hino_YT) · Widgets: [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), [Profile views](https://github.com/antonkomarev/github-profile-views-counter) · [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) · [Snake](https://github.com/Platane/snk)</sub>
 
 </div>
