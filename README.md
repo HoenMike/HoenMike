@@ -1,122 +1,157 @@
+<!--
+  HoenMike's GitHub profile
+  Theme: Anime Night / RPG side quests
+  The illustrated banner is an original, locally hosted SVG asset.
+-->
+
 <div align="center">
 
-# Hey, I'm Mike! 👋
+<img src="./assets/anime-night-banner.svg" alt="Anime Night: Mike, a developer with too many side quests, beneath a moonlit sky" width="100%" />
 
-**Developer • Creative builder • Curious about pretty much everything**
+<br />
 
-*I like making things — useful apps, random experiments, games, tools, and whatever idea gets stuck in my head.*
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=3300&amp;pause=1300&amp;color=ECA5D2&amp;center=true&amp;vCenter=true&amp;width=730&amp;height=42&amp;lines=One+more+commit+before+the+next+episode...;Building+cozy+games+%26+useful+tools;Developer+by+day%2C+side-quester+by+night" alt="Animated intro: games, tools, anime, and coding side quests" />
+</a>
 
-<sub>Based in Vietnam 🇻🇳 &nbsp;·&nbsp; Always learning, always building.</sub>
+<br />
 
-<br /><br />
+<a href="https://github.com/HoenMike?tab=repositories">
+  <img src="https://img.shields.io/badge/QUEST_LOG-Explore_Projects-242946?style=for-the-badge&amp;logo=github&amp;logoColor=F7B7DF&amp;labelColor=171D35" alt="Explore my projects" />
+</a>
+<a href="https://yet-another-vietnamese-word-clock.pages.dev/">
+  <img src="https://img.shields.io/badge/PLAY-Word_Clock-315B71?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=AFE9FF&amp;labelColor=171D35" alt="Play with the Word Clock" />
+</a>
+<a href="https://github.com/HoenMike/DiscordMikeBot">
+  <img src="https://img.shields.io/badge/SUMMON-Asumi-714A8B?style=for-the-badge&amp;logo=discord&amp;logoColor=FFCAEA&amp;labelColor=171D35" alt="Meet Asumi, my Discord bot" />
+</a>
 
-<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="440" alt="Pixel-art developer at work" />
-
-<br /><br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-HoenMike-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoenMike)
-[![Word Clock](https://img.shields.io/badge/Try-Word%20Clock-386B9B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yet-another-vietnamese-word-clock.pages.dev/)
-[![Asumi](https://img.shields.io/badge/Explore-Asumi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/HoenMike/DiscordMikeBot)
+<sub>「ようこそ！」 Welcome to my little corner of GitHub. Grab a drink, pick a quest, and stay a while.</sub>
 
 </div>
 
 ---
 
-## 👋 A little about me
+## 🌙 01 / Character sheet — 自己紹介
 
-I'm a developer who enjoys exploring **different kinds of projects**, from web applications and business tools to AI, games, automation, and embedded systems.
+<img align="right" src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="285" alt="Pixel-art developer working at a desk" />
 
-I don't really stick to one category. Sometimes I build something to solve a problem; sometimes it's just because I want to see if an idea is possible. I enjoy learning new tools, figuring things out, and turning rough ideas into something real.
+Hey, I'm **Mike** — a computer science developer from **Vietnam** who likes making useful things with a little personality.
 
-**Outside of tech?** Games, anime, and probably thinking about the next project I want to try.
+My main quest is turning ideas into working software. My side quests? **AI companions, cozy games, web apps, automation**, and experiments that begin with *"wait, what if..."*
 
-> *I may have more project ideas than free time — but that's part of the fun.*
+```yaml
+player: Mike / HoenMike
+class: Developer + Curious Builder
+home_server: Vietnam 🇻🇳
+main_quest: Build things that are actually fun to use
+side_quests:
+  - Web apps and practical software
+  - AI assistants, bots and automation
+  - Cozy games and weird little prototypes
+offline_mode: Anime, games, and more project ideas
+playstyle: Curious > min-maxing
+```
 
-## 💼 Experience & working style
+I also enjoy the less glamorous side of software: **understanding real workflows, talking to people, and solving practical problems**. Working around manufacturing and business processes taught me that a nice interface means little if it doesn't help the people using it.
 
-- **Manufacturing environment:** Experience working in a factory / manufacturing setting, with an understanding of real operational needs, business workflows, and practical software solutions.
-- **English & international communication:** Strong English communication skills. Comfortable communicating in English and familiar with US and European working environments and communication styles.
-- **People + problem-solving:** I enjoy collaborating, discussing requirements, understanding what people need, and figuring out how technology can help.
+<br clear="right" />
 
-I like the balance between **building software that works** and **making it easy for people to actually use**.
-
-## 🛠️ Things I've worked with
-
-| Area | Technologies & tools |
-| :--- | :--- |
-| **Web & application development** | TypeScript, JavaScript, React, .NET, Java, Python |
-| **Enterprise & data** | SharePoint / SPFx, SQL, Firebase |
-| **Cloud & deployment** | Cloudflare, Render, GitHub |
-| **Game development** | Unity, Phaser |
-| **Other interests & experience** | Embedded systems, AI tools, bots & automation |
+## ⚔️ 02 / My equipment — 技術スタック
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-182A41?style=flat-square&logo=typescript&logoColor=84B9FF)
-![React](https://img.shields.io/badge/React-182A41?style=flat-square&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-182A41?style=flat-square&logo=dotnet&logoColor=B4A0FF)
-![Java](https://img.shields.io/badge/Java-182A41?style=flat-square&logo=openjdk&logoColor=F5B778)
-![Python](https://img.shields.io/badge/Python-182A41?style=flat-square&logo=python&logoColor=FFD580)
-![SQL](https://img.shields.io/badge/SQL-182A41?style=flat-square&logoColor=FFFFFF)
-![SharePoint](https://img.shields.io/badge/SharePoint-182A41?style=flat-square&logo=microsoftsharepoint&logoColor=75D6CE)
-![Unity](https://img.shields.io/badge/Unity-182A41?style=flat-square&logo=unity&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-182A41?style=flat-square&logo=cloudflare&logoColor=FBB46C)
-![Render](https://img.shields.io/badge/Render-182A41?style=flat-square&logo=render&logoColor=88E5CD)
-![Phaser](https://img.shields.io/badge/Phaser-182A41?style=flat-square&logo=phaser&logoColor=90E3C6)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-182A41?style=flat-square&logoColor=FFFFFF)
+**Main loadout**
+
+<img src="https://img.shields.io/badge/TypeScript-202741?style=flat-square&amp;logo=typescript&amp;logoColor=88BFFF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-202741?style=flat-square&amp;logo=javascript&amp;logoColor=FFE083" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-202741?style=flat-square&amp;logo=react&amp;logoColor=8AE9F5" alt="React" />
+<img src="https://img.shields.io/badge/.NET-202741?style=flat-square&amp;logo=dotnet&amp;logoColor=C7A8FF" alt=".NET" />
+<img src="https://img.shields.io/badge/Python-202741?style=flat-square&amp;logo=python&amp;logoColor=FFDC93" alt="Python" />
+<img src="https://img.shields.io/badge/Java-202741?style=flat-square&amp;logo=openjdk&amp;logoColor=FFA8A5" alt="Java" />
+
+**Side-quest gear**
+
+<img src="https://img.shields.io/badge/Flutter-202741?style=flat-square&amp;logo=flutter&amp;logoColor=8DE1FF" alt="Flutter" />
+<img src="https://img.shields.io/badge/Phaser-202741?style=flat-square&amp;logoColor=C4EDB7" alt="Phaser" />
+<img src="https://img.shields.io/badge/Unity-202741?style=flat-square&amp;logo=unity&amp;logoColor=FFFFFF" alt="Unity" />
+<img src="https://img.shields.io/badge/Cloudflare-202741?style=flat-square&amp;logo=cloudflare&amp;logoColor=FFC38A" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Firebase-202741?style=flat-square&amp;logo=firebase&amp;logoColor=FFD18A" alt="Firebase" />
+<img src="https://img.shields.io/badge/SQL-202741?style=flat-square&amp;logoColor=A5D8F9" alt="SQL" />
+<img src="https://img.shields.io/badge/SharePoint%20%2F%20SPFx-202741?style=flat-square&amp;logo=microsoftsharepoint&amp;logoColor=8EE4DF" alt="SharePoint and SPFx" />
+
+<sub>Inventory, not a power ranking — some tools are daily drivers; others belong to past experiments.</sub>
 
 </div>
 
-<sub>Not a ranking or a claim to know everything — just a mix of tools I've used and areas I've explored.</sub>
+## 🗺️ 03 / Quest board — 進行中
 
-## 🚀 Some things I've built
+A few adventures from the backlog:
 
-A few examples of the different directions my curiosity has taken me:
-
-| Project | What it is |
-| :--- | :--- |
-| **🌱 Living Garden** | A cozy browser farming game about growing, exploring, and building your own little world. |
-| **🤖 [Asumi](https://github.com/HoenMike/DiscordMikeBot)** | A Discord bot / AI companion with conversations, community features, and automations. |
-| **☁️ Miraei** | A personal Telegram assistant for remembering ideas, organizing thoughts, and getting things done. |
-| **🕒 [Word Clock](https://yet-another-vietnamese-word-clock.pages.dev/)** | A Vietnamese word clock for web and ambient displays, adapted from an [open-source project](https://github.com/tridzfr/vietnamese-word-clock). |
+| Quest | What I'm building | Portal |
+| :--- | :--- | :--- |
+| 🌱 **Living Garden** | A cozy browser farming game about growth, little rituals, and making a garden that keeps expanding. | [Visit the garden](https://living-garden.hoanggg003.workers.dev/) |
+| 🤖 **Asumi** | A Discord companion with AI chat, community features, utilities, and automation. | [Source code](https://github.com/HoenMike/DiscordMikeBot) |
+| 🕒 **Word Clock** | A playful Vietnamese word clock for the web — because time can look cooler than numbers. | [Try it](https://yet-another-vietnamese-word-clock.pages.dev/) |
+| 🦖 **Chrome Dino** | A small Java game experiment from an earlier coding arc. | [Source code](https://github.com/HoenMike/ChromeDino) |
 
 <details>
-<summary><b>📂 More projects & experiments</b></summary>
+<summary><b>📜 Open the archive — previous arcs & experiments</b></summary>
 
 <br />
 
-- **Zinit** — my graduation thesis: a Flutter productivity app for tasks, habits, and focus.
-- **AlphaCMS 2** — a private scheduling and payroll management web application.
-- **[Chrome Dino](https://github.com/HoenMike/ChromeDino)** — an early Java/OOP game project.
-- **ChillTown** — a real-time multiplayer experiment.
-- **Project SC** — an independent private software project; details aren't public.
+- **Zinit** — a Flutter productivity app built as a graduation project.
+- **AlphaCMS 2** — private scheduling and payroll software.
+- **ChillTown** — an experiment in real-time multiplayer.
+- **Other prototypes** — web utilities, internal business tools, AI experiments, and ideas that didn't need to become full products.
 
-Some projects are public, some are private, and some are just experiments. They're all part of the journey.
+Not everything here has a public repository, and that's okay. The fun part is learning something with every build.
 
 </details>
 
-## 📊 GitHub activity
+## 🍡 04 / Otaku corner — 趣味の時間
+
+> **Life philosophy:** Ship the feature. Watch the episode. Get distracted by another idea. Repeat.
+
+I'm into **anime, story-heavy games, supernatural mysteries, warm romances**, and game systems that reward curiosity instead of endless grinding.
+
+<details>
+<summary><b>🎴 A few anime conversations I'd never turn down (spoiler-free)</b></summary>
+
+<br />
+
+**Horimiya** · **The Garden of Sinners (Kara no Kyoukai)** · **JoJo's Bizarre Adventure** · **The Fragrant Flower Blooms with Dignity**
+
+I have a soft spot for stories with believable character chemistry, layered mysteries, and worlds that feel bigger than the main plot.
+
+</details>
+
+## 📊 05 / Adventure log — GitHub activity
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="HoenMike contribution activity graph" width="96%" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="HoenMike's GitHub contribution activity" width="96%" />
 
 <table>
 <tr>
 <td width="56%" align="center">
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="HoenMike GitHub stats" width="100%" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats for HoenMike" width="100%" />
 </td>
 <td width="44%" align="center">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages across HoenMike's public GitHub contributions" width="100%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most-used languages in public GitHub contributions" width="100%" />
 </td>
 </tr>
 </table>
 
-<sub>Generated daily from public GitHub data. Private and non-GitHub work won't all show up here.</sub>
+<sub>Stats refresh automatically from public GitHub activity. Private work and offline projects won't be fully reflected here.</sub>
 
-<img src="./assets/contribution-snake.gif" alt="Animated contribution snake crossing HoenMike's GitHub graph" width="100%" />
+<br />
 
-<sub>A little animation, because why not? 🐍</sub>
+**BONUS BOSS: THE CONTRIBUTION SNAKE**
+
+<img src="./assets/contribution-snake.gif" alt="A snake collecting GitHub contributions on an animated activity grid" width="100%" />
+
+<sub>No daily login reward. Just commits and a very hungry snake.</sub>
 
 </div>
 
@@ -124,12 +159,12 @@ Some projects are public, some are private, and some are just experiments. They'
 
 <div align="center">
 
-### Thanks for stopping by!
+### 🌸 Quest complete — またね！
 
-*Whether you're here to talk tech, check out my work, or just say hi — welcome.*
+**Thanks for visiting my save file.**
 
-**See you around! ✌️**
+*The next chapter is probably already in another branch.*
 
-<sub>Stats by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) · Snake by [snk](https://github.com/Platane/snk) · Pixel GIF from [pixelartgifs](https://github.com/hackwithdev/pixelartgifs)</sub>
+<sub>Built with Markdown, an original SVG illustration, [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [Shields.io](https://shields.io/), [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [snk](https://github.com/Platane/snk).</sub>
 
 </div>
